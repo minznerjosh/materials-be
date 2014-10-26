@@ -1,0 +1,19 @@
+{
+  "name": "materials-be",
+  "version": "0.0.0",
+  "description": "Backend for the Minzner & Co. materials manager.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:minznerjosh/materials-be.git"
+  },
+  "author": "Joshua D. Minzner",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/minznerjosh/materials-be/issues"
+  },
+  "homepage": "https://github.com/minznerjosh/materials-be"
+}
